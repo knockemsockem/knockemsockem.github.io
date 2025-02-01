@@ -2,6 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Minecraft';
+  src: url('/minecraft_font.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: 'Minecraft', sans-serif !important;
+  letter-spacing: 0.1em;
+}
+
 html, body {
   height: 100%;
   margin: 0;
