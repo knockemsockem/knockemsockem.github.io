@@ -68,7 +68,7 @@ const Framed = () => {
         playsInline
         className="fixed inset-0 object-cover z-0 w-full h-full"
       >
-        <source src="/0131.mp4" type="video/mp4" />
+        <source src="https://files.catbox.moe/zs8dsr.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <ThreeDCardDemo />
