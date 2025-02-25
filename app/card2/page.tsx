@@ -11,7 +11,7 @@ function FramedCard () {
         <CardItem translateZ="60" className="w-full rounded-md mt-4">
             <div className="banner">
                 <Image
-                src={'/banner3.jpg'}
+                src={'/banner4.jpg'}
                 width={960}
                 height={240}
                 alt="Banner"
@@ -20,7 +20,7 @@ function FramedCard () {
             </div>
             <div className="avatar">
           <Image
-            src="/pp2.png"
+            src="/e23d97e0f62469bca42b575facce6f36.jpg"
             height="108"
             width="108"
             className=" object-cover ml-4 absolute top-24 w-[108px] h-[108px] sm:top-20 rounded-full group-hover/card:shadow-xl mx-auto"
@@ -77,7 +77,7 @@ function FramedCard () {
       <br />
       Reactjs ∼ Tailwind ∼ Typescript
       <br />
-      I love my wife Kira! ♡ 6/14/23
+      GHL Student @ UH | 19
     </p>
   </div>
 </CardItem>
